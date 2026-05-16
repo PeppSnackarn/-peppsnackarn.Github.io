@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Nicke testing shit", "dafo.png", 
+    new ProjectData("project-1", "Nicke testing shit", "img/projects/dafo.png", 
     `
     <div class="paragraph">
      <strong>Hell ye</strong> I hope this works after build.
