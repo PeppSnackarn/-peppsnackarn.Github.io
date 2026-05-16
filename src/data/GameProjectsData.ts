@@ -1,26 +1,25 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "Nicke testing shit", "dafo.png", 
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+     <strong>Hell ye</strong> I hope this works after build.
+     <br/>This is a way to hop lines.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed/94CcxtueaNA" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+        <a href="https://www.youtube.com/@PeppSnackarn" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
     </div>
 
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Example of creating point list</li>
+        <li>Wow! Another point</li>
+        <li><strong>3 points!?</strong></li>
         </ul>
     </div>
 
