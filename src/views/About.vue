@@ -4,8 +4,8 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Nikodemius Ivarsson</strong>, an educated and passionate game developer.<br/>
+        I have studied for 5.5 years unbroken with Unity & Unreal Engine Gameplay & AI programming.
       </div>
 
       <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
